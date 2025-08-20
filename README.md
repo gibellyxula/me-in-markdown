@@ -11,8 +11,10 @@
 
 ## My Spotify Playlist!
 <p></p>This playlist is of some of my favorite songs that I listen to on repeat all the time. I listen to music all the time so my favorite songs definitely change all the time, but these songs are from some of my favorite artists!
-
+</p>
 [Spotify Playlist!](https://open.spotify.com/playlist/5zif6spDDMfrqfHT9A7w1W?si=VtRMGTKUR2CMTozOJmyW-g)
 
 ## My Mood Board!
-<p></p>
+<p></p>My mood board has some of my favorite things and my favorite memories!
+</p>
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/601d65d1-6a61-4f2b-b302-f282d56cb61f">
